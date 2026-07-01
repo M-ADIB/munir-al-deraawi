@@ -1,0 +1,238 @@
+{
+  "scale_max": 5,
+  "weights": {
+    "reputation": 22,
+    "seo": 15,
+    "ux": 20,
+    "conversion": 23,
+    "performance": 10,
+    "content": 10
+  },
+  "ranked": [
+    {
+      "name": "SERHANT. (Ryan Serhant)",
+      "url": "https://www.serhant.com/",
+      "scores": {
+        "reputation": 5,
+        "seo": 5,
+        "ux": 5,
+        "conversion": 5,
+        "performance": 4,
+        "content": 5
+      },
+      "weighted_total": 98.0,
+      "total_out_of_100": 98.0,
+      "rank": 1
+    },
+    {
+      "name": "The Agency (Mauricio Umansky)",
+      "url": "https://www.theagencyre.com/",
+      "scores": {
+        "reputation": 5,
+        "seo": 5,
+        "ux": 5,
+        "conversion": 4,
+        "performance": 4,
+        "content": 5
+      },
+      "weighted_total": 93.4,
+      "total_out_of_100": 93.4,
+      "rank": 2
+    },
+    {
+      "name": "Aaron Kirman",
+      "url": "https://aaronkirman.com/",
+      "scores": {
+        "reputation": 5,
+        "seo": 4,
+        "ux": 5,
+        "conversion": 4,
+        "performance": 4,
+        "content": 4
+      },
+      "weighted_total": 88.4,
+      "total_out_of_100": 88.4,
+      "rank": 3
+    },
+    {
+      "name": "Josh Flagg",
+      "url": "https://www.joshflagg.com/",
+      "scores": {
+        "reputation": 5,
+        "seo": 4,
+        "ux": 5,
+        "conversion": 4,
+        "performance": 4,
+        "content": 4
+      },
+      "weighted_total": 88.4,
+      "total_out_of_100": 88.4,
+      "rank": 4
+    },
+    {
+      "name": "Luxhabitat",
+      "url": "https://www.luxhabitat.ae/",
+      "scores": {
+        "reputation": 4,
+        "seo": 5,
+        "ux": 4,
+        "conversion": 4,
+        "performance": 4,
+        "content": 5
+      },
+      "weighted_total": 85.0,
+      "total_out_of_100": 85.0,
+      "rank": 5
+    },
+    {
+      "name": "Morgan's International Realty",
+      "url": "https://www.morgansrealty.com/",
+      "scores": {
+        "reputation": 4,
+        "seo": 4,
+        "ux": 4,
+        "conversion": 4,
+        "performance": 4,
+        "content": 5
+      },
+      "weighted_total": 82.0,
+      "total_out_of_100": 82.0,
+      "rank": 6
+    },
+    {
+      "name": "Christie's International Real Estate Dubai",
+      "url": "https://www.christiesrealestate.ae/",
+      "scores": {
+        "reputation": 5,
+        "seo": 4,
+        "ux": 4,
+        "conversion": 3,
+        "performance": 4,
+        "content": 4
+      },
+      "weighted_total": 79.8,
+      "total_out_of_100": 79.8,
+      "rank": 7
+    },
+    {
+      "name": "White & Co Real Estate",
+      "url": "https://whiteandcogroup.com/",
+      "scores": {
+        "reputation": 4,
+        "seo": 4,
+        "ux": 4,
+        "conversion": 4,
+        "performance": 4,
+        "content": 3
+      },
+      "weighted_total": 78.0,
+      "total_out_of_100": 78.0,
+      "rank": 8
+    },
+    {
+      "name": "John Taylor Dubai",
+      "url": "https://www.john-taylor.com/luxury-real-estate-agency/dubai/",
+      "scores": {
+        "reputation": 4,
+        "seo": 3,
+        "ux": 4,
+        "conversion": 3,
+        "performance": 3,
+        "content": 3
+      },
+      "weighted_total": 68.4,
+      "total_out_of_100": 68.4,
+      "rank": 9
+    },
+    {
+      "name": "Tyron Ash Real Estate",
+      "url": "https://tyronash.com/",
+      "scores": {
+        "reputation": 4,
+        "seo": 3,
+        "ux": 3,
+        "conversion": 3,
+        "performance": 3,
+        "content": 3
+      },
+      "weighted_total": 64.4,
+      "total_out_of_100": 64.4,
+      "rank": 10
+    },
+    {
+      "name": "Edwards & Towers",
+      "url": "https://edwardsandtowers.com/",
+      "scores": {
+        "reputation": 3,
+        "seo": 3,
+        "ux": 3,
+        "conversion": 3,
+        "performance": 3,
+        "content": 3
+      },
+      "weighted_total": 60.0,
+      "total_out_of_100": 60.0,
+      "rank": 11
+    },
+    {
+      "name": "Munir Al Deraawi \u2014 current footprint (portal-only, no owned site)",
+      "url": "https://www.propertyfinder.ae/en/agent/munir-mohammad-alderaawi-274885",
+      "scores": {
+        "reputation": 3,
+        "seo": 2,
+        "ux": 2,
+        "conversion": 2,
+        "performance": 3,
+        "content": 1
+      },
+      "weighted_total": 44.4,
+      "total_out_of_100": 44.4,
+      "rank": 12
+    },
+    {
+      "name": "Brand-With-Salman style template landing page",
+      "url": "https://brandwithsalman.com/personal-branding-for-real-estate-agents/",
+      "scores": {
+        "reputation": 2,
+        "seo": 2,
+        "ux": 2,
+        "conversion": 2,
+        "performance": 3,
+        "content": 2
+      },
+      "weighted_total": 42.0,
+      "total_out_of_100": 42.0,
+      "rank": 13
+    },
+    {
+      "name": "Generic Property Finder / Bayut agent profile (portal template)",
+      "url": "https://www.bayut.com/brokers/",
+      "scores": {
+        "reputation": 2,
+        "seo": 2,
+        "ux": 2,
+        "conversion": 2,
+        "performance": 3,
+        "content": 1
+      },
+      "weighted_total": 40.0,
+      "total_out_of_100": 40.0,
+      "rank": 14
+    },
+    {
+      "name": "Generic DIY template agent site (Zarla/iNCOM archetype)",
+      "url": "https://www.zarla.com/guides/real-estate-website-examples",
+      "scores": {
+        "reputation": 1,
+        "seo": 2,
+        "ux": 2,
+        "conversion": 2,
+        "performance": 3,
+        "content": 2
+      },
+      "weighted_total": 37.6,
+      "total_out_of_100": 37.6,
+      "rank": 15
+    }
+  ]
+}

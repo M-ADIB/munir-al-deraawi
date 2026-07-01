@@ -1,0 +1,88 @@
+{
+  "scale_max": 5,
+  "weights": {
+    "reputation": 22,
+    "seo": 15,
+    "ux": 20,
+    "conversion": 23,
+    "performance": 10,
+    "content": 10
+  },
+  "candidates": [
+    {
+      "name": "SERHANT. (Ryan Serhant)",
+      "url": "https://www.serhant.com/",
+      "scores": { "reputation": 5, "seo": 5, "ux": 5, "conversion": 5, "performance": 4, "content": 5 }
+    },
+    {
+      "name": "The Agency (Mauricio Umansky)",
+      "url": "https://www.theagencyre.com/",
+      "scores": { "reputation": 5, "seo": 5, "ux": 5, "conversion": 4, "performance": 4, "content": 5 }
+    },
+    {
+      "name": "Aaron Kirman",
+      "url": "https://aaronkirman.com/",
+      "scores": { "reputation": 5, "seo": 4, "ux": 5, "conversion": 4, "performance": 4, "content": 4 }
+    },
+    {
+      "name": "Josh Flagg",
+      "url": "https://www.joshflagg.com/",
+      "scores": { "reputation": 5, "seo": 4, "ux": 5, "conversion": 4, "performance": 4, "content": 4 }
+    },
+    {
+      "name": "Luxhabitat",
+      "url": "https://www.luxhabitat.ae/",
+      "scores": { "reputation": 4, "seo": 5, "ux": 4, "conversion": 4, "performance": 4, "content": 5 }
+    },
+    {
+      "name": "Morgan's International Realty",
+      "url": "https://www.morgansrealty.com/",
+      "scores": { "reputation": 4, "seo": 4, "ux": 4, "conversion": 4, "performance": 4, "content": 5 }
+    },
+    {
+      "name": "Christie's International Real Estate Dubai",
+      "url": "https://www.christiesrealestate.ae/",
+      "scores": { "reputation": 5, "seo": 4, "ux": 4, "conversion": 3, "performance": 4, "content": 4 }
+    },
+    {
+      "name": "Tyron Ash Real Estate",
+      "url": "https://tyronash.com/",
+      "scores": { "reputation": 4, "seo": 3, "ux": 3, "conversion": 3, "performance": 3, "content": 3 }
+    },
+    {
+      "name": "White & Co Real Estate",
+      "url": "https://whiteandcogroup.com/",
+      "scores": { "reputation": 4, "seo": 4, "ux": 4, "conversion": 4, "performance": 4, "content": 3 }
+    },
+    {
+      "name": "John Taylor Dubai",
+      "url": "https://www.john-taylor.com/luxury-real-estate-agency/dubai/",
+      "scores": { "reputation": 4, "seo": 3, "ux": 4, "conversion": 3, "performance": 3, "content": 3 }
+    },
+    {
+      "name": "Edwards & Towers",
+      "url": "https://edwardsandtowers.com/",
+      "scores": { "reputation": 3, "seo": 3, "ux": 3, "conversion": 3, "performance": 3, "content": 3 }
+    },
+    {
+      "name": "Munir Al Deraawi — current footprint (portal-only, no owned site)",
+      "url": "https://www.propertyfinder.ae/en/agent/munir-mohammad-alderaawi-274885",
+      "scores": { "reputation": 3, "seo": 2, "ux": 2, "conversion": 2, "performance": 3, "content": 1 }
+    },
+    {
+      "name": "Generic Property Finder / Bayut agent profile (portal template)",
+      "url": "https://www.bayut.com/brokers/",
+      "scores": { "reputation": 2, "seo": 2, "ux": 2, "conversion": 2, "performance": 3, "content": 1 }
+    },
+    {
+      "name": "Brand-With-Salman style template landing page",
+      "url": "https://brandwithsalman.com/personal-branding-for-real-estate-agents/",
+      "scores": { "reputation": 2, "seo": 2, "ux": 2, "conversion": 2, "performance": 3, "content": 2 }
+    },
+    {
+      "name": "Generic DIY template agent site (Zarla/iNCOM archetype)",
+      "url": "https://www.zarla.com/guides/real-estate-website-examples",
+      "scores": { "reputation": 1, "seo": 2, "ux": 2, "conversion": 2, "performance": 3, "content": 2 }
+    }
+  ]
+}
