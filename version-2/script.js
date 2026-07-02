@@ -23,15 +23,6 @@
     setTimeout(() => document.body.classList.add("is-done"), 2000);
   }, 3500);
 
-  /* ---------- nav hide on scroll down ---------- */
-  const nav = document.getElementById("nav");
-  let lastY = 0;
-  window.addEventListener("scroll", () => {
-    const y = window.scrollY;
-    nav.classList.toggle("is-hidden", y > 160 && y > lastY);
-    lastY = y;
-  }, { passive: true });
-
   /* ---------- fullscreen menu ---------- */
   const burger = document.getElementById("burger");
   const menu = document.getElementById("menu");
