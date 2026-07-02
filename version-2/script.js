@@ -4,6 +4,14 @@
 
   const prefersReduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
+  /* ---------- viewport zoom lock (iOS ignores user-scalable=no) ---------- */
+  ["gesturestart", "gesturechange", "gestureend"].forEach((evt) => {
+    document.addEventListener(evt, (e) => e.preventDefault(), { passive: false });
+  });
+  document.addEventListener("touchmove", (e) => {
+    if (e.scale !== undefined && e.scale !== 1) e.preventDefault();
+  }, { passive: false });
+
   /* ---------- preloader ---------- */
   window.addEventListener("load", () => {
     document.body.classList.add("is-loaded");
