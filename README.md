@@ -1,21 +1,28 @@
 # Munir Al Deraawi — Luxury Real Estate Bio Website
 
-A cinematic, conversion-focused personal-brand website for **Munir Al Deraawi**, Founder & CEO of
+A conversion-focused personal-brand website for **Munir Al Deraawi**, Founder & CEO of
 Orla Properties (Dubai luxury real estate). Built on the findings in
 [`research/website-research-report-luxury-realestate-agent-dubai.md`](research/website-research-report-luxury-realestate-agent-dubai.md).
 
-## Stack
-Zero-build static site — plain HTML/CSS/JS. No dependencies, deploy anywhere.
+Two design directions, both zero-build static sites (plain HTML/CSS/JS, deploy anywhere):
 
-- `index.html` — all sections (hero, about, track record, portfolio, insights, testimonials, contact, footer)
-- `styles.css` — design system (near-black + ivory + gold), fully responsive
-- `script.js` — sticky nav, scroll reveals, animated counters, mobile menu, WhatsApp lead form
+| Version | Folder | Design language |
+|---------|--------|-----------------|
+| **v1 — Cinematic Gold** | `version-1/` | Playfair Display + Jost, near-black/ivory/gold, full-bleed hero, gold CTAs, logo ticker |
+| **v2 — Halston Editorial** | `version-2/` | Inspired by the *Halston* Webflow architecture template: JetBrains Mono everywhere, ivory + ink + bronze, dot labels, giant display type, parallax images, fullscreen expertise panels, dark areas/CTA/footer sections, oversized "Consultation" footer text |
+
+Each version folder contains its own `index.html`, `styles.css`, `script.js` and `assets/`.
+v2 is a from-scratch rebuild of the Halston look (no Webflow CSS/JS dependencies) with Munir's
+content, plus fresh figures pulled from his Property Finder / Bayut profiles (Jul 2026):
+Founder of ORLA PROPERTIES L.L.C, 14 yrs, 4.8★ SuperAgent (9 ratings), 76 active listings,
+AED 40.1M trailing-12-month volume, Bayut TruBroker™ / Quality Lister / Responsive Broker,
+BRN 41837, and his Instagram positioning line "I don't sell property, I shape the right decision."
 
 ## Run locally
 ```bash
 cd munir-deraawi-site
 python3 -m http.server 4321
-# open http://localhost:4321
+# open http://localhost:4321/version-1/  or  http://localhost:4321/version-2/
 ```
 
 ## Design principles applied (from the research)
@@ -31,7 +38,7 @@ python3 -m http.server 4321
 
 ## ⚠️ BEFORE PUBLISHING — replace these placeholders
 
-Everything below is a placeholder or a figure sourced from public profiles. Confirm with Munir and swap in real assets.
+Everything below is a placeholder or a figure sourced from public profiles. Confirm with Munir and swap in real assets. Applies to **both versions** (v2 uses the same assets, WhatsApp placeholder `9715XXXXXXXX`, guessed email, and Unsplash hero/panel imagery).
 
 | What | Where | Current placeholder |
 |------|-------|---------------------|
