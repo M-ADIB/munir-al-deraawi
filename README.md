@@ -1,4 +1,15 @@
-# Munir Al Deraawi — Luxury Real Estate Bio Website
+# Orla Properties — Dubai Real Estate Website
+
+## Versions (the root `/` redirects to the live one)
+- **`version-3/` — LIVE. Orla Properties company brand.** Emerald + champagne-gold palette matched to the real Orla logo & IG (@orlaproperties); copy rewritten firm-first, Munir featured as Founder & CEO. Contact = `hello@orlaproperties.com` (real domain, from their IG).
+- **`version-2/` — ARCHIVED. Munir Al Deraawi personal brand.** The previous live version, kept intact so it can be restored anytime by pointing the root `index.html` redirect back to `version-2/`.
+- **`version-1/` — original first cut.**
+
+**Before publishing v3:** replace the WhatsApp/phone placeholders (`wa.me/9715XXXXXXXX`, `+971 5X XXX XXXX`), swap the illustrative testimonials for verified Property Finder reviews, and confirm `hello@orlaproperties.com` routes. Assets (portrait/listings/logos) are shared across versions in each folder's `assets/`.
+
+---
+
+## Munir Al Deraawi — Luxury Real Estate Bio Website (original brief)
 
 A conversion-focused personal-brand website for **Munir Al Deraawi**, Founder & CEO of
 Orla Properties (Dubai luxury real estate). Built on the findings in
