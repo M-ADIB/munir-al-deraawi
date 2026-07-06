@@ -335,8 +335,8 @@ body.is-done .preload { display: none; }
   width: 100%;
   aspect-ratio: 3/4;
   object-fit: cover;
-  object-position: 50% 12%;
-  filter: saturate(0.88) contrast(1.03);
+  object-position: 50% 42%;
+  filter: saturate(0.95) contrast(1.03);
 }
 .hero__portrait-cap {
   display: flex;
